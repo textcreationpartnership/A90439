@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triall of the honourable Colonel Iohn Penruddock of Compton in Wiltshire, and his speech: vvhich he delivered the day before he was beheaded in the castle of Exon, being the 16. day of May 1655. to a gent. whom he desired to publish them after his death. Together with his prayer upon the scaffold, and the last letter he received from his vertuous lady, with his answer to the same. Also the speech of that piously resolved gent. Hugh Grove of Chisenbury in the parish of Enford, and County of Wilts, Esq; beheaded there the same day.</title>
+            <author>Penruddock, John, 1619-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90439</idno>
+            <idno type="STC">Wing P1431</idno>
+            <idno type="STC">Thomason E845_7</idno>
+            <idno type="STC">ESTC R207278</idno>
+            <idno type="EEBO-CITATION">99866339</idno>
+            <idno type="PROQUEST">99866339</idno>
+            <idno type="VID">118610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118610)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 128:E845[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triall of the honourable Colonel Iohn Penruddock of Compton in Wiltshire, and his speech: vvhich he delivered the day before he was beheaded in the castle of Exon, being the 16. day of May 1655. to a gent. whom he desired to publish them after his death. Together with his prayer upon the scaffold, and the last letter he received from his vertuous lady, with his answer to the same. Also the speech of that piously resolved gent. Hugh Grove of Chisenbury in the parish of Enford, and County of Wilts, Esq; beheaded there the same day.</title>
+                  <author>Penruddock, John, 1619-1655.</author>
+                  <author>Grove, Hugh, d. 1655.</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by order of the Gent. intrusted.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>'The speech of that piously resolved. Hugh Grove of Chassenbury ..' appears on p.18.</note>
+                  <note>Annotation on Thomason copy: "July. 2.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118610:1" rendition="simple:additions"/>
+            <p>The TRIALL of the honourable Colonel IOHN PENRUDDOCK of <hi>Compton</hi> in <hi>Wiltſhire,</hi> and his SPEECH; <hi>VVhich he delivered the day before he w<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s beheaded in the Caſtle of</hi> Exon, <hi>being the 16. day of</hi> May 1655. <hi>to a Gent. whom he deſired to publiſh them after his death.</hi>
+            </p>
+            <p>Together with his prayer upon the Scaffold, and the laſt Letter he received from his vertuous Lady, with his Anſwer to the ſame.</p>
+            <p>
+               <hi>Alſo the Speech of that Piouſly reſolved Gent.</hi>
+            </p>
+            <p>Hugh Grove <hi>of</hi> Chiſenbury <hi>in the pariſh of</hi> Enford, <hi>and County of</hi> Wilts, <hi>
+                  <abbr>Eſq</abbr> beheaded there the ſame day.</hi>
+            </p>
+            <p>Printed by order of the Gent. intruſted. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="trial_proceedings">
+            <pb facs="tcp:118610:2"/>
+            <pb n="1" facs="tcp:118610:2"/>
+            <p>Col. <hi>Penruddock</hi> being writ to by a friend for an account of his triall, writ as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THough I received your deſires ſomething too late, it being but two dayes before notice given me from the Sheriff of the day of my expiration, for I cannot call this an Execution, it being for ſuch a cauſe; yet in order to your ſatisfaction, I have borrowed ſo much time from my more ſerious Meditations, as to give you this ſhort account of my Triall, wherein you muſt excuſe both the brevitie and imperfections, it being but the iſſues of a bad memory.</p>
+               </body>
+            </floatingText>
+            <div type="proceedings">
+               <p>
+                  <seg rend="decorInit">U</seg>Pon <hi>Thurſday</hi> the 19. <hi>April</hi> 1655. the Commiſſioners of <hi>Oyer</hi> and <hi>Terminer,</hi> being ſate in the Caſtle of <hi>Exon,</hi> ſummoned before them my ſelf, M<hi rend="sup">r</hi> 
+                  <hi>Hugh Grove,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Ri<g ref="char:EOLhyphen"/>chard Reeves,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Robert Duke,</hi> M<hi rend="sup">r</hi> 
+                  <hi>George Duke,</hi> Mr <hi>Thomas Fitz-James,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Francis Jones,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Edward Da<g ref="char:EOLhyphen"/>vis,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Thomas Poulton,</hi> and M<hi rend="sup">r</hi> 
+                  <hi>Francis Bennet.</hi> Being all called to the Barre, we were commanded to hold up our hands, and an In<g ref="char:EOLhyphen"/>dictment of high Treaſon was read againſt us: and being asked whether we would plead guilty or not guilty to the Indictment; in the behalf of my ſelf and of the Gent<g ref="char:punc">▪</g> therein charged, I ſpake as followeth.</p>
+               <sp>
+                  <speaker>Col. Penruddock.</speaker>
+                  <p>My Lords, though my education hath been ſuch as not to give me thoſe advantages which the knowledge of the Lawes would have aſſiſted me with, for the defending my ſelf: yet upon hear<g ref="char:EOLhyphen"/>ing this very indictment, my reaſon tells me that it is illegall: and therefore I do demand Councell that may diſpute the illegality thereof.</p>
+               </sp>
+               <sp>
+                  <speaker>Serjeant Glyn.</speaker>
+                  <p>Sir, you deſire that which cannot be granted, therefore give your anſwer, whether you are guilty or not guilty of the Treaſon of which you ſtand charged.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, By your favour, it is that which hath been granted to my inferiours, (<hi>viz</hi>) to M<hi rend="sup">r</hi> 
+                     <hi>Lilburn,</hi> and to one <hi>Rolf</hi> a Shoemaker, and I have as great a right to the Lawes as any perſon that ſits here as my Judge; I do therefore challenge it as my right. Judge <hi>Nicholas</hi>
+                     <pb n="2" facs="tcp:118610:3"/>
+whom I there ſee, will tell you he himſelf was councell for this <hi>Rolf:</hi> and it is a hard caſe, if a free-born Gentleman of <hi>England</hi> cannot have the ſame priviledge that his inferiours have had before him.</p>
+               </sp>
+               <sp>
+                  <speaker>Attorney Generall.</speaker>
+                  <p>Sir, There is a great difference between Treaſon acting and acted; the later is your caſe: therefore flatter not your ſelf, and do not think your being mute ſhall ſave your eſtate in caſe of Treaſon; for if you plead not to the Indictment, ſentence will be pronounced againſt you, as if you had been found guilty of the fact you are charged with.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, I obſerve your diſtinction: but all the Logick you have, ſhall not make me nor any Rationall man acknowledge, that this was either acting or acted, before it be proved. Sir, It is but a bare ſuſpicion, and I hope you will not condemn me before I am convicted: I ſay the In<g ref="char:EOLhyphen"/>dictment is illegall, and I do demand Councell.</p>
+               </sp>
+               <sp>
+                  <speaker>At. Gen.</speaker>
+                  <p>Sir, The Court muſt not be dallied withall: I do peremtori<g ref="char:EOLhyphen"/>ly demand of you, are you guilty or not guilty? If you plead you may have favour, otherwiſe we ſhall proceed to ſentence.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, Put caſe I do plead, ſhall I then have Councell allowed me?</p>
+               </sp>
+               <sp>
+                  <speaker>At. Gen.</speaker>
+                  <p>Sir, The Court makes no bargains, refer your ſelf to us. Hereupon my fellow-priſoners perſwaded me to plead not guilty<g ref="char:punc">▪</g> which being done, I demanded Councell, as being partly promiſed it. Mr At<g ref="char:EOLhyphen"/>torney told me: I could have none. Then I replyed;</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, <hi>Durus eſt hic ſermo,</hi> it is no more then I expected from you; but rather then I will be taken off unheard, I will make my own de<g ref="char:EOLhyphen"/>fence as well as I can. The Jurors being then called, I challenged about 24 of the 35 I might have challenged. The reſt of the gentlemen were ſent from the bar; I was left alone upon my triall; and the Jurors were ſo pact, that had I known them, the iſſue had been the ſame that it was. The Jurors being ſworn, and the Indictment again read, Mr At<g ref="char:EOLhyphen"/>torney demanded what exception I could make to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, I except againſt every part thereof: for I take it to be il<g ref="char:EOLhyphen"/>legall in <hi>toto <gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ompoſito.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Record. Steel.</speaker>
+                  <p>Sir, It is not uſuall for any Court to admit of generall ex<g ref="char:EOLhyphen"/>ceptions, therefore we expect that you ſhould make it to ſome particular.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, I deſire a copy of my Indictment, and time untill to<g ref="char:EOLunhyphen"/>morrow to make my defence.</p>
+               </sp>
+               <sp>
+                  <speaker>At. Gen.</speaker>
+                  <p>Sir, You cannot have it; the Court expects you ſhould do it now.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Then if I cannot have time, if my generall exception might have been admitted, it would have told you, that there can be no high Treaſon in this Nation, but it muſt<g ref="char:punc">▪</g> be grounded either upon the Com<g ref="char:EOLhyphen"/>mon, or the Statute law<g ref="char:punc">▪</g> But this is neither grounded upon the Common law, or the Statute: <hi>ergo</hi> no treaſon (againſt a Protectour who hath no power according to Law:) neither is there any ſuch thing in Law as a Protectour, for all Treaſons and ſuch pleas are <hi>Propria Cauſa Regis.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ser. Glyn.</speaker>
+                  <p>Sir, You are peremptory, you ſtrike at the government;
+<pb n="3" facs="tcp:118610:3"/>
+you will fare never a whit the better for this ſpeech<g ref="char:punc">▪</g> ſpeak as to any particu<g ref="char:EOLhyphen"/>lar exception you have to the Indictment.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, If I ſpeak any thing which grates upon the preſent go<g ref="char:EOLhyphen"/>vernment, I may confidently expect your pardon: my life is as dear to me, as this government can be to any of you. The holy Prophet <hi>David</hi> when he was in danger of his life, feigned himſelf mad, &amp; the ſpittle hung upon his beard: you may eaſily therefore excuſe my imperfections<g ref="char:punc">▪</g> And ſince I am now forced to give you my particular exception (more plainly) to the Indictment, I am bold to tell you, I obſerve in the later part of the Indictment, you ſay I am guilty of High Treaſon by vertue of a Statute in that caſe made and provided. If there be any ſuch Statute, pray let it be read; I know none ſuch. My Actions were for the King; and I well remember what <hi>Bract.</hi> ſaith, <hi>Rex non habet ſuperiorem niſi Deum; <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<g ref="char:EOLhyphen"/>tis</hi>
+                     <note place="margin">5 Tract. de delates cap. Bract. rem. <hi>H. 3. 3.</hi> ch. 24. Sect.</note> 
+                     <hi>habet adpoenam, quod Deum expect at ultorem.</hi> And in another place he ſaith, <hi>Rex habet potestatem &amp; juriſdictionem ſuper omnes qui in Regno ſuo ſunt: ea quae ſunt juriſdictionis &amp; pacis, ad nulluni pertinent, niſi ad regiam dignitatem: habet etiam coercionem, ut delin<g ref="char:EOLhyphen"/>quentes puniat &amp; coerceat.</hi> again he ſaith, <hi>Omnes ſub Rege, &amp; ipſe nullo niſi tantum Deo; non est inferior ſibi ſubjectis; non parem habet in regno ſuo.</hi> this ſhewes us where the true power is. You ſhall find alſo.</p>
+                  <p>That whoever ſhall refuſe to aid the King when war is levied againſt<note place="margin">Parl. Rol. num. 7. Rex &amp; con<g ref="char:EOLhyphen"/>ſuetudo Parliament. <hi>11 H. 7</hi> Chap. 1.</note> him, or againſt any that keep the King from his juſt Rights, offends the law, and is thereby guilty of Treaſon. Again,</p>
+                  <p>All men that adhere to the King in perſonall ſervice are freed from Treaſon by Law: and yet you tell me of a Statute, which makes my ad<g ref="char:EOLhyphen"/>hering to my King according to Law, to be high Treaſon. Pray let it be read.</p>
+               </sp>
+               <sp>
+                  <speaker>At. Gen.</speaker>
+                  <p>Sir, You have not behaved your ſelf ſo as to have ſuch a fa<g ref="char:EOLhyphen"/>vour from the Court.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, I require it not as a favour, but as my Right.</p>
+               </sp>
+               <sp>
+                  <speaker>At. Gen.</speaker>
+                  <p>Sir, You cannot have it.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>If I cannot have it, theſe Gentlemen that are the Jurors have not affended you: their verdict reaches to their ſouls, as to my life: pray let not them go blindfold, but let that Statute be their guide.</p>
+               </sp>
+               <sp>
+                  <speaker>At. Gen.</speaker>
+                  <p>Sir, The Jury ought to be ſatisfied with what hath been already ſaid, and ſo might you too.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, I thank you; you now tell me what I muſt truſt to.</p>
+                  <p>Mr Attorney then made a large ſpeech in the face of the Court, where<g ref="char:EOLhyphen"/>in he aggravated the offence with divers circumſtances; as ſaying, I had been four years in <hi>France,</hi> and held a correſpondency with the King my Maſter, of whom I had learned the Popiſh Religion; That I endea<g ref="char:EOLhyphen"/>voured to bring in a debauch'd lewd young man, &amp; to engage this Nati<g ref="char:EOLhyphen"/>on in another bloudy war; and that if I had not been timely prevented,
+<pb n="4" facs="tcp:118610:4"/>
+I had deſtroyed them, (meaning the Jurors) and their whole families. I interrupted him, and ſaid,</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Mr Attorney, you have been heretofore of Councell for me, you then made my caſe better then indeed it was; I ſee you have the facul<g ref="char:EOLhyphen"/>ty to make men believe falſehoods to be truth too.</p>
+               </sp>
+               <sp>
+                  <speaker>At. Gen.</speaker>
+                  <p>Sir, You interrupt me, you ſaid but now you were a gentleman.</p>
+               </sp>
+               <sp>
+                  <speaker>Col. Pen.</speaker>
+                  <p>Sir, I have been thought worthy heretofore to ſit on the bench, though now I am at the bar. Mr Attorney then proceeded in his ſpeech, and called the witneſſes. Then I ſaid,</p>
+                  <p>Sir, You have put me in a bears skin, and now you will bait me with a witneſſe. But I ſee the face of a gentleman here in the Court, (I mean Captain <hi>Crook,</hi>) whoſe conſcience can tell him, that I had articles from him which ought to have kept me from hence. Captain <hi>Crook</hi> here<g ref="char:EOLhyphen"/>upon ſtood up, and his guilty conſcience (I ſuppoſed) adviſed him to ſit down again, after he had made this ſpeech, (that is to ſay) he opened his lips and ſpake nothing. The ſeverall witneſſes now come in, Mr <hi>Dove</hi> the Sheriff of <hi>Wilts,</hi> and others; my charity forbids me to tell you what many of them ſwore: I ſhall therefore omit that, and only tell you that one of our own party (and indeed I think an honeſt man) being forc't to give his evidence, I ſaid, My Lords, it is a hard caſe, that when you find you cannot otherwiſe cleave me in pieces, that you muſt look af<g ref="char:EOLhyphen"/>ter wedges made of my own timber. The vertuous Cryer of <hi>Blanford</hi> be<g ref="char:EOLhyphen"/>ing asked what were the words I uſed in the proclaiming King <hi>Charles</hi> at the market, he ſaid, I declar'd for <hi>Charles</hi> the Second, and ſetling the true Proteſtant Religion, for the liberty of the Subject, and Priviledge of Parliaments.</p>
+                  <p>Then I ſaid to the Attorney Generall and the whole Court, you ſaid even now, that I had learn'd of the King my Maſter the Popiſh religi<g ref="char:EOLhyphen"/>on, and endeavoured to bring him in: your own witneſſe tells you, what, and whom I would bring in, and that it was the true Proteſtant, and not the Popiſh Religion, his Majeſtie is of, and intends to ſettle. I urged divers caſes to make the buſineſſe but a Riot (as my Lord of <hi>Northumberlands</hi>) pretending it was for the taking of Taxes, and that the power was not declared to be where they ſay it is. I required the Judges to be of Councell for me, and told them it was their duty. Com<g ref="char:EOLhyphen"/>miſſioner <hi>Liſle</hi> told me I ſhould have no wrong, (but he meant Right) but Judge <hi>Rolls</hi> and <hi>Nicholas</hi> confeſſed themſelves parties, therefore would ſay nothing. Then I told the Court, if I had ſeen a Crown upon the head of any perſon, I had known what had been Treaſon, the Law of <hi>England</hi> would have taken hold of me out of the reſpects it has to Monarchy: there was no ſuch land-marks before me; therefore I con<g ref="char:EOLhyphen"/>ceive I cannot be guilty of what I am charged with. And my Lord and Mr Attorney, you here indict me for a Treaſon committed at <hi>South<g ref="char:EOLhyphen"/>moulton</hi> in <hi>Devonſhire;</hi> and gentlemen, ye ſwear witneſſes againſt me
+<pb n="5" facs="tcp:118610:4"/>
+for facts done in other Countries. <hi>Sarum, Blanford,</hi> and <hi>Southmoul<g ref="char:EOLhyphen"/>ton</hi> are not in a pariſh. You puzzle the Jurors with theſe circumſtan<g ref="char:EOLhyphen"/>ces, pray go to the kernell; and you Gent. of the Jury, ſave your la<g ref="char:EOLhyphen"/>bour of taking thoſe notes. Mr Attorney then addreſſed himſelf to the Jury, and to be ſhort, after the ſpace of half an houre long, gave them directions to bring me in guilty: this being done, I craved the favour from the Court, that I might ſpeak to the Jury; which be<g ref="char:EOLhyphen"/>ing allowed, I ſaid to them as followeth, or to the ſame effect.</p>
+                  <p>Gent. You are called a Jury of life and death; and happy will it be for your ſoules, if you prove to be a Jury of life. You have heard what hath been ſaid to make my actions Treaſon, and with what vigour many untruths have been urged to you. I have made appear to you that there can be no treaſon but againſt the King; that the Law knowes no ſuch perſon as a Protectour. Mr Attorney pretends a Sta<g ref="char:EOLhyphen"/>tute for it, but refuſeth the reading thereof either to me or you: vilifies me at pleaſure, and tells you I am a Papiſt, and would bring in the Popiſh Religion: and that if I had not been timely prevented, I had deſtroyed you. I hope you are alſo ſatisfied of the contrary, from the mouth of one of the bittereſt witneſſes. You are now judges between me and theſe Judges. Let not the majeſty of their looks, or the glory of their habits, betray you to a ſinne which is of a deeper dye then their ſcarlet; I mean that ſinne, bloud, which calls to heaven for ven<g ref="char:EOLhyphen"/>geance. Gent. you do not ſee a hair of my head but is numbred, nei<g ref="char:EOLhyphen"/>ther can you make any one of them; much leſſe can you put breath into my noſtrils when it is taken out: a ſparrow doth not fall to the ground without the providence of God, much leſſe ſhall man, to whom he hath given dominion and rule over all the creatures of the earth. Gent. look upon me, I am the Image of my Creatour, and that ſtamp of his which is in my vizage, is not to be defaced without an account given wherefore it was. I have here challenged, as I am a Gent<g ref="char:punc">▪</g> and free-born man of <hi>England,</hi> the right which the law al<g ref="char:EOLhyphen"/>lowes me; I demanded a copy of my Indictment, and Councell, but it is denied me. The Law which I would have been tried by is the known Law of the land, which was drawn by the wiſe conſultation of our Princes, and by the ready pens of our Progenitours. The Law which I am now tried by is no Law, but what is cut out by the poynt of a rebellious ſword; and the ſheets in which they are recorded, be<g ref="char:EOLhyphen"/>ing varniſhed with the moiſture of an eloquent tongue, if you look not well to it, may chance to ſerve for ſome of your Shrouds. If the fear of diſpleaſing others ſhall betray you to find me guilty of any thing, you can at the moſt but make a riot of this. Pray by the way take notice, that the laſt Parliament would not allow the Legiſla<g ref="char:EOLhyphen"/>tive power to be out of themſelves; ſeventeen of twenty in this very County were of that opinion, and deſerted the houſe: they were
+<pb n="6" facs="tcp:118610:5"/>
+your Repreſentative: if you ſhould find me guilty, you bring them in danger, and in them your ſelves. Have a care of being drawn into a ſnare. Gent. your bloud may run in the ſame channel with mine. If what I have ſaid do not ſatisfie you, ſo as to acquit me; if you bring in a ſpeciall verdict, you do in ſome meaſure acquit your ſelves, and throw the bloud that will be ſpilt upon the Judges. Conſider of it, and the Lord direct you for the beſt.</p>
+                  <p>The Jury after a quarter of an houres retirement, brought me in guilty: the Lord forgive them for they knew not what they did.</p>
+                  <p>Upon <hi>Monday</hi> the 23. of <hi>April</hi> we were again called to the barre, being then in number twentie ſix. Serjeant <hi>Glyn</hi> asked of me firſt, what I could ſay for my ſelf, that I ſhould not have ſentence according to Law? Then I ſaid,</p>
+                  <p>My Lords and Gent. you aske what I can ſay for my ſelf, that I ſhould not have ſentence paſſe upon me. The Jury found me guilty: if I ſhould go about to make a defence now, it would ſignifie no more, then as if my friends ſhould petition for my pardon after I am execu<g ref="char:EOLhyphen"/>ted. I could have offered you articles here, but I thought them incon<g ref="char:EOLhyphen"/>fiſtent with this Court. When I look upon my offence (as to the Pro<g ref="char:EOLhyphen"/>tectour) I conclude my ſelf a dead man; but when I reflect upon the favour he hath ſhewed to others of my condition, and the hopes I have of your interceſſion, methinks I feel my ſpirits renewed again<g ref="char:punc">▪</g> My Lords, death is a debt due from me to Nature; the Protectour has now the keeping the bond, and has put it in ſuit by his Attorney: if he pleaſe to forbear the ſerving me with an execution, and let me keep it a little longer, I will pay him the intereſt of thanks for it as long as I live, and ingage my poſterity and a numerous allyance to be bound for me. So the Lord direct you all for the beſt. If I have found favour I ſhall thank you; if not, I ſhall forgive you.</p>
+                  <p>This being done, Serjeant <hi>Glyn,</hi> after a moſt bitter and nonſenſicall ſpeech, gave ſentence againſt us; (<hi>viz.</hi>) to be drawn, hanged and quartered. A pretty exchange for unworthy <hi>Crooks</hi> Articles for life, libertie and eſtate; which I can prove, and will dye upon. My triall held at leaſt five houres. This is as much as at preſent I can remember of it; excuſe the errours.</p>
+                  <p>One of the Jury being asked by a Gent. why he found me guilty; anſwered, He was reſolved to hang me, before he did ſee me.</p>
+                  <p>
+                     <note n="*" place="margin">Witneſſe one <hi>Bennet</hi> and <hi>Stroud,</hi> who in open Court con<g ref="char:EOLhyphen"/>feſſed to be guilty of all they proved againſt me, yet Mr At<g ref="char:EOLhyphen"/>torney gave the Jury di<g ref="char:EOLhyphen"/>rections to find them not guilty.</note> I obſerve treaſon in this age to be an <hi>individuum vagum,</hi> like the wind in the Goſpel, which bloweth where it liſteth; for that ſhall be treaſon in me to day, which ſhall be none in another to morrow<g ref="char:punc">▪</g> as it pleaſeth M<hi rend="sup">r</hi> Attorney.</p>
+                  <p>The <note n="†" place="margin">
+                        <hi>3 part. Inſt.</hi> pa. 22. <hi>a part. Inſt.</hi> pag. 47. 48. <hi>Princes</hi> caſe 8 reports.</note> Judges are ſworn to do juſtice according to the Law of the Land, and therefore have miſerably perjured themſelves in condem<g ref="char:EOLhyphen"/>ning me contrary to Law: And (not ſo contented) muſt cauſe the
+<pb n="7" facs="tcp:118610:5"/>
+Jury (ſo<g ref="char:punc">▪</g> wiſe they were)<g ref="char:punc">▪</g> through their falſe and unjuſt directions, to deſtroy their own rights and properties, and ſet up a new Arbitrary and Tyrannicall government.</p>
+                  <p>The Judges would not give me their adviſe in point of Law, (as was their duty) becauſe they ſaid they were parties; yet could ſi ſtill on the Bench in their Robes, to countenance (and approve of) my ſentence.</p>
+                  <p>
+                     <note n="*" place="margin">Hobart <hi>folio 120. Doct.</hi> Bo<g ref="char:EOLhyphen"/>nams <hi>caſe 8 part of</hi> Cooks <hi>re<g ref="char:EOLhyphen"/>ports.</hi>
+                     </note> No man can be a Judge where he is a Party in the ſame cauſe; there<g ref="char:EOLhyphen"/>fore my triall was contrary to Law.</p>
+                  <p>The Judges being parties, ought not to ſit upon the bench<g ref="char:punc">▪</g> (but ſtand by;) therefore my triall was illegall: the reſt being no Judges, but the Protectours immediate ſervants, ſo could not be my Judges in caſe of High Treaſon; for none but the ſworn Judges of the Land are capable of it by Law.</p>
+                  <p>One thing of Colonel <hi>Dove</hi> the reverend Sheriff of <hi>Wilts,</hi> who that the Jury might be ſufficiently incenſed, complaining of the many incivilities (he pretended) were offered him by our party, being upon his Oath, ſaid, that one of our men did run him through the ſide with a Carabine. Surely it was a very ſmall one, for the wound is not diſcernable.</p>
+                  <p>A great deal of paines every man in his place took for the carry<g ref="char:EOLhyphen"/>ing on their Maſters work.</p>
+                  <p>Be mercifull unto me, O Lord, be mercifull unto me: under the ſhadow of thy wings will I hide my ſelf till this Tyranny be over<g ref="char:EOLhyphen"/>paſt.</p>
+                  <p>Glory be to God on High, in earth peace, good will to<g ref="char:EOLhyphen"/>wards men; and ſo have mercy on me, O Lord.</p>
+               </sp>
+               <closer>
+                  <signed>JOHN PENRUDDOCK.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:118610:6"/>
+               <head>M<hi rend="sup">rs</hi>. <hi>Penruddocks</hi> laſt letter to her ho<g ref="char:EOLhyphen"/>nourable and dear Husband.</head>
+               <opener>
+                  <salute>MY DEAR HEART,</salute>
+               </opener>
+               <p>MY ſad parting was ſo farre from making me forget you, that I ſcarce thought upon my ſelf ſince, but wholly up<g ref="char:EOLhyphen"/>on you<g ref="char:punc">▪</g> Thoſe dear embraces which I yet feel, and ſhall never looſe, being the faithfull teſtimonies of an indulgent Husband, have charm'd my ſoul to ſuch a reverence of your Remem<g ref="char:EOLhyphen"/>brance, that were it poſſible, I would with my own bloud cement your dead limbs to life again, and (with reverence) think it no ſin to rob heaven a little while longer of a Martyr. Oh my dear! you muſt now pardon my paſſion, this being my laſt (oh fatall word!) that ever you will receive from me. And know, that untill the laſt minute that I can imagine you ſhall live, I will ſacrifice the prayers of a Chriſtian, and the groans of an afflicted wife. And when you are not, (which ſure by ſympathie I ſhall know) I ſhall wiſh my own diſſolu<g ref="char:EOLhyphen"/>tion with you, that ſo we may go hand in hand to heaven. 'Tis too late to tell you what I have (or rather have not) done for you; how turned out of doores, becauſe I came to beg mercy: the Lord lay not your bloud to their charge. I would fain diſcourſe longer with you, but dare not; Paſſion begins to drown my Reaſon, and will rob me of my devoire, which is all I have left to ſerve you. Adieu therefore ten thouſand times, my deareſt dear; and ſince I muſt never ſee you more, take this prayer: May your Faith be ſo ſtrengthened, that your Conſtancy may continue; and then I know heaven will receive you, whither grief and love will in a ſhort time (I hope) tranſlate</p>
+               <closer>
+                  <salute>My dear,</salute>
+                  <signed>Your ſad, but conſtant wife, even to love your aſhes when dead,
+<hi>Arundel Penruddock.</hi>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>May</hi> the 3. 11 a clock at night.</date>
+                  </dateline>
+Your children beg your bleſſing, and preſent their duties to you.</closer>
+            </div>
+            <div type="letter">
+               <pb n="9" facs="tcp:118610:6"/>
+               <head>The laſt letter from the honourable Colonel <hi>Penruddock,</hi> in anſwer to his ver<g ref="char:EOLhyphen"/>tuous Lady.</head>
+               <opener>
+                  <salute>MY DEAREST HEART,</salute>
+               </opener>
+               <p>I Even now received thy farewell letter: each word whereof re<g ref="char:EOLhyphen"/>preſents unto me a moſt lively Embleme of your affection, drawn with thy own hand in water colours, to the figure of a deaths head. My dear, I embrace it, as coming firſt from God, and then from Man: for what is there done in the City that the Lord hath not permitted? I look upon every line of thine, as ſo many threads twiſted together into that of my life, which being now woven, my me<g ref="char:EOLhyphen"/>ditations tell me, will make a fit remnant for my winding-ſheet. Upon the reading thereof, I may ſay with the Prophet, I ſhould have utterly fainted, but that I believe verily to ſee the goodneſſe of the Lord in the land of the living. As this is mine, my dear, ſo let it be thy conſolation. When I think what a wife and what children I go from, and look no further<g ref="char:punc">▪</g> I begin to cry, O wretched man that I am! But when my thoughts ſoar higher, and fix themſelves upon thoſe things which are above, where I ſhall find God my Creatour to my Father, and his Son my Redeemer to my Brother, (for ſo they have vouchſafed to term themſelves;) then I ſay aſide thoſe relations, and do of all love, my dear, deſire thee not to look towards my grave, where my Body lies, but toward the heaven, where I hope my Soul ſhall gain a Manſion in my Fathers houſe. I do ſtedfaſtly believe that God hath heard the prayers of my friends, and thine, and mine: and how knoweſt thou, O woman, whether thou haſt not ſaved thy husband? Let thoſe conſiderations raiſe thy ſpirits, I beſeech thee; and that for Gods ſake and mine. though I ly among the children of men, which are ſet on fire againſt me; yet under the ſhadow of the Almighties wings I will hide my ſelf till this tyranny be over<g ref="char:EOLhyphen"/>paſt. The greateſt conflict I have had in this extremitie, was my parting with thee: the next encounter is to be with Death; and my Saviour hath ſo pulled out the ſting thereof, that I hope to aſſault it without fear. Though the Armies of men have been too hard for me, yet I am now liſting my ſelf under the conduct of my Sovereign, and an Army of Martyrs, that the gates of hell cannot prevail againſt.
+<pb n="10" facs="tcp:118610:7"/>
+My dear, I have now another ſubject to think on; therefore you muſt excuſe the imperfections you find here. I have formerly given you directions concerning my children, to which I ſhall referre you. May the bleſſing of Almighty God be upon thee and them, and may there not want a man of my name to be ready to be a ſacrifice in this cauſe of God, and his Church, ſo long as the Sun and Moon ſhall endure. I ſhall now cloſe up all, with deſiring you to give a teſti<g ref="char:EOLhyphen"/>mony for me to the world, that I die with ſo much Charity as to for<g ref="char:EOLhyphen"/>give all my enemies. I will joyn them in my laſt prayers, for my friends: Amongſt which, you and my children are for my ſake obli<g ref="char:EOLhyphen"/>ged to pay a perpetuall acknowledgement. To Mr <hi>Rolles</hi> and his Lady, and my couſin Mr <note n="*" place="margin">
+                     <hi>Nota be<g ref="char:EOLhyphen"/>ne.</hi> Mr <hi>Se<g ref="char:EOLhyphen"/>baſtine Iſack</hi> al<g ref="char:EOLhyphen"/>though he ſeemed very ſollicitous for Col. <hi>Penrud<g ref="char:EOLhyphen"/>dock</hi> in his life, ſince his death hath been very un<g ref="char:EOLhyphen"/>worthy to his memo<g ref="char:EOLhyphen"/>ry, (contra<g ref="char:EOLhyphen"/>ry to his promiſe to the ſaid Col. in his life,) and hath done contrary to the will of the dead, the trust repoſed in him, the principles of honour, and much unbecoming a Gent.</note> 
+                  <hi>Sebaſtine Iſack,</hi> for their great ſollicitati<g ref="char:EOLhyphen"/>ons on my behalf. If I ſhould forget this City of <hi>Exeter</hi> for their civilities to my own ſelf in particular, &amp; indeed to all of us, I ſhould leave a reproach behind me. I will give them thanks at my death, and I hope you and yours will do it when I am dead. My dear heart, I once more bid thee adieu, and with as much love and ſincerity as can be imagined, I ſubſcribe my ſelf</p>
+               <closer>
+                  <signed>Thy dying and loving Husband,
+<hi>Jo. Penruddock.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Exon,</hi> 
+                     <date>
+                        <hi>May</hi> 7. and the <note n="*" place="margin">Note, when this letter was writ, Colonel <hi>Penruddock</hi> did not know other then that he was to die the ſame day.</note> laſt year and day of my date, being the year of my Saviour 1655.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="11" facs="tcp:118610:7"/>
+               <head>The Speech of the Honourable Colonell <hi>Penruddock,</hi> the greateſt part whereof he delivered upon the Scaffold in <hi>Exon</hi> Caſtle the 16. day of <hi>May</hi> 1655. the whole he left with a Gent. and friend of his, written with his own hand; which is as followeth.</head>
+               <head type="sub">Together with the manner of his being beheaded.</head>
+               <p>As he was aſcending the Scaffold, baring his knees, and humbly bow<g ref="char:EOLhyphen"/>ing himſelf, he uſed theſe words, This I hope will prove to be like <hi>Jacobs</hi> ladder; though the feet of it reſt on earth, yet I doubt not but the top of it reacheth to Heaven.</p>
+               <p>When he came upon the Scaffold, he ſaid,</p>
+               <p>
+                  <hi>O wretched man that I am, who ſhall deliver me from this body of death? I thank God who hath given me victory through our Lord Jeſus Chriſt.</hi>
+               </p>
+               <p>Then with abundance of Chriſtian chearfulneſſe he ſpake to the people as followeth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <opener>
+                              <salute>GENTLEMEN,</salute>
+                           </opener>
+                           <p>IT hath ever been the cuſtome of all perſons whatſoever when they come to die, to give ſome ſatisfaction to the world, whether they be guilty of the fact of which they ſtand charged. The crime for which I am now to die, is Loyalty, (but) in this age calld high Treaſon. I cannot deny but I was at <hi>South-moulton</hi> in this County: but whether my being there, or my actions there a<g ref="char:EOLhyphen"/>mount to ſo high a crime as high Treaſon, I leave to the world &amp; to the Law to judge. Truly, if I were conſcious to my ſelf of any baſe ends that I had in this undertaking, I would not be ſo injurious to my own ſoul, or disingenuous to you, as not to make a publick ac<g ref="char:EOLhyphen"/>knowledgement
+<pb n="12" facs="tcp:118610:8"/>
+thereof. I ſuppoſe that divers perſons, according as they are biaſſed by their ſeverall intereſts and relations, give their o<g ref="char:EOLhyphen"/>pinions to the world concerning us. I conceive it impoſſible there<g ref="char:EOLhyphen"/>fore ſo to expreſſe my ſelf in this particular, as not to expoſe both my judgement and reputation to the cenſure of many which I ſhall leave behind me. Becauſe I will not put others (therefore) upon a breach of charity concerning me or my actions, I have thought fit to decline all diſcourſes which may give them a capacity either to injure them<g ref="char:EOLhyphen"/>ſelves or me. My Tryall was publick, and my ſeverall examinati<g ref="char:EOLhyphen"/>ons (I believe) will be produced when I am in my grave: I will re<g ref="char:EOLhyphen"/>fer you therefore to the firſt, which I am ſure ſome of you heard, and to the later, which many of you (in good time) may ſee. Had Cap<g ref="char:EOLhyphen"/>tain <hi>Crook</hi> done himſelf and us that right which a Gentleman and a Souldier ought to have done, I had not now been here. The man I forgive with all my heart: but truly Gentlemen, his proteſting againſt thoſe Articles he himſelf with ſo many proteſtations and importuni<g ref="char:EOLhyphen"/>ties put upon us, hath drawn ſo much diſhonour and bloud upon his head, that I fear ſome heavy judgement will purſue him. Though he hath been falſe to us, I pray God I do not prove a true prophet to him.</p>
+                           <p>Nay, I muſt ſay more, that coming on the road to <hi>Exon,</hi> he the ſaid Captain <hi>Crook</hi> told me, Sir <hi>Joſeph Wagſtaffe</hi> was a gallant Gen<g ref="char:EOLhyphen"/>tleman, and that he was ſorry he was not taken with us; that then he might have had the benefit of our Articles: but now (ſaid he) I have beſet all the Country for him, ſo that he cannot eſcape, but muſt be hanged.</p>
+                           <p>He alſo queſtioned me as I paſſed through <hi>Salisbury</hi> from <hi>London,</hi> whether he had given me conditions. Which I endeavouring to make appear to Major <hi>Butler;</hi> he interrupted me, and unwillingly confeſſ't it, ſaying, I profered him four hundred pounds to perform his Arti<g ref="char:EOLhyphen"/>cles: which had been a ſtrange profer of mine, had I not really con<g ref="char:EOLhyphen"/>ditioned with him. And I told him then (having found him unworthy) I would have given him five hundred pounds, believing him to be mer<g ref="char:EOLhyphen"/>cenary. To make it yet farther appear, I injure him not by ſtiling him unworthy, after theſe Articles were given, he profered to piſtoll me, if I did not perſwade another houſe to vield, which then were boldly reſiſting. To which my ſervant <hi>Iohn Biby</hi> (now a priſoner) replyed; I hope you will not be ſo unworthy, as to break the Law of Arms.</p>
+                           <p>Thus much I am obliged to ſay to the honour of the Soulderie, that they have been ſo far from breaking any Articles given to others, that they have rather bettered them then otherwiſe.</p>
+                           <p>It is now our misfortune to be made preſidents and examples together: but I will not do the Protectour ſo much injury, as to load him with this diſhonour; ſince I have been informed, that he would have made our
+<pb n="13" facs="tcp:118610:8"/>
+conditions good, if <hi>Crook,</hi> that gave them, had not abjur'd them.</p>
+                           <p>This is not a time for me to enlarge upon any ſubject, ſince I am now become the Subject of death: But ſince the Articles were drawn by my hand, I thought myſelf obliged to a particular Juſtification of them.</p>
+                           <p>I could tell you of ſome ſouldiers which are turned out of his troup for defending thoſe conditions of ours: but let that paſſe; and hence<g ref="char:EOLhyphen"/>forward, in ſtead of life, liberty, and eſtate (which were the Articles a<g ref="char:EOLhyphen"/>greed upon) let drawing, hanging and quartering, bear the Denomi<g ref="char:EOLhyphen"/>nation of Captain <hi>Crooks</hi> Articles.</p>
+                           <p>However, I thank the Protectour for granting me this honourable Death.</p>
+                           <p>I ſhould now give you an accompt of my Faith. But truly gentlemen this poor Nation is rent into ſo many ſeverall opinions, that it is impoſ<g ref="char:EOLhyphen"/>ſible for me to give you mine without diſpleaſing ſome of you. Howe<g ref="char:EOLhyphen"/>ver, if any man be ſo criticall as to enquire of what faith I die, I ſhall re<g ref="char:EOLhyphen"/>fer him to the Apoſtles, <hi>Athanaſius,</hi> and the <hi>Nicene</hi> Creed, and to the teſtimony of this Reverend gentleman Dr <hi>Short,</hi> to whom I have unboſomed my ſelf: and if this do not ſatisfie, look in the thirty nine Arti<g ref="char:EOLhyphen"/>cles of the Catholick Church of <hi>England;</hi> to them I have ſubſcribed, and do own them as authentick.</p>
+                           <p>Having now given you an accompt concerning my ſelf; I hold my ſelf obliged in duty to ſome of my friends, to take off a ſuſpicion which lyes upon them: I mean, as to ſome perſons of Honour, which upon my examination I was charged to have held correſpondency with. The Marqueſſe of <hi>Hartford,</hi> the Marqueſſe of <hi>Wincheſter,</hi> and my Lord of <hi>Pembrook</hi> were the perſons nominated to me. I did then acquit them, and do now ſecond it with this proteſtation, That I never held any cor<g ref="char:EOLhyphen"/>reſpondency with either or any of them, in relation to this particular buſineſſe, or indeed to any thing which concern'd the Protectour or his Government. As for the Marqueſſe of <hi>Wincheſter,</hi> I ſaw him ſome twelve years ſince, and not later; and if I ſhould ſee him here preſent, I believe I ſhould not know him. And for the Earle of <hi>Pembrook,</hi> he was not a man likely, to whom I ſhould diſcover my thoughts, becauſe he is a man of a contrary judgement.</p>
+                           <p>I was examined likewiſe concerning my Brother <hi>Freke,</hi> my Couſin <hi>Haſtings,</hi> Mr <hi>Dorrington</hi> and others. It is probable their eſtates may make them lyable to this my condition: but I do here ſo far acquit them, as to give the world this farther proteſtation; that I am confi<g ref="char:EOLhyphen"/>dent they are as innocent in this buſineſſe as the youngeſt child here.</p>
+                           <p>I have no more to ſay to you now, but to let you know, that I am in charity with all men; I thank God, I both can, and do forgive my
+<pb n="14" facs="tcp:118610:9"/>
+greateſt perſecutours, and all that ever had any hand in my death.</p>
+                           <p>I have offered the Protectour as good ſecurity for my future demea<g ref="char:EOLhyphen"/>nour as I ſuppoſe he could have expected: if he had thought fit to have given me my life, certainly I ſhould not have been ſo ungratefull as to have imployed it againſt him. I do humbly ſubmit to Gods pleaſure, knowing that the iſſues of life and death are in his hand. My bloud is but a ſmall ſacrifice: if it had been ſaved, I am ſo much a Gent<g ref="char:punc">▪</g> as to have given thanks to him that preſerved it; and ſo much a Chriſtian, as to for<g ref="char:EOLhyphen"/>give them which take it. But ſeeing God by his providence hath cal<g ref="char:EOLhyphen"/>led me to lay it down, I willingly ſubmit to it, though terrible to nature: but bleſſed be my Saviour, who hath taken out the ſting; ſo that I look upon it without terrour. Death is a debt, and a due debt; and it hath pleaſed God to make me ſo good a husband, that I am come to pay it be<g ref="char:EOLhyphen"/>fore it is due. I am not aſhamed of the cauſe for which I die, but rather rejoyce that I am thought worthy to ſuffer in the defence and cauſe of Gods true Church, my lawfull King, the liberty of the Subject, and Priviledge of Parliaments. Therefore I hope none of my alliance and friends will be aſhamed of it; it is ſo far from pulling down my Fami<g ref="char:EOLhyphen"/>ly, that I look upon it as the raiſing it one ſtory higher. Neither was I ſo prodigall of nature as to throw away my life, but have uſed (though none but honourable and honeſt) means to preſerve it.</p>
+                           <p>Theſe unhappy times indeed have been very fatall to my family: two of my Brothers already ſlain, and my ſelf going to the ſlaughter: it is Gods will, and I humbly ſubmit to that providence.</p>
+                           <p>I muſt render an acknowledgement of the great civilities that I have received from this city of <hi>Exon,</hi> and ſome perſons of quality, and for their plentifull proviſion made for the priſoners. I thank Mr Shreiff for his favour towards us, in particular to my ſelf,; and I deſire him to preſent my due reſpects to the Protectour, and though he had no mercy for my ſelf, yet that he would have reſpect to my family.</p>
+                           <p>I am now ſtripping off my cloaths to fight a duell with death, (I conceive no other duell lawfull) but my Saviour hath pulled out the ſting of this mine enemy, by making himſelf a ſacrifice for me: And truly I do not think that man deſerving one drop of his bloud, that will not ſpend all for him in ſo good a cauſe.</p>
+                           <p>The truth is, Gentlemen, in this Age, Treaſon is an <hi>individuum vagum,</hi> like the wind in the Goſpel, it bloweth where it lifteth: So now Treaſon is what they pleaſe, and lighteth upon whom they will. Indeed no man, except he will be a Traitour, can avoid this Cenſure of Treaſon. I know not to what end it may come, but I pray God my own, and my Brothers bloud that is now to die with me, may be the laſt upon this ſcore.</p>
+                           <p>Now Gentlemen, you may ſee what a condition you are in without
+<pb n="15" facs="tcp:118610:9"/>
+a King: you have no Law to protect you, no rule to walk by; when you perform your duty to God, your King and Countrey, you diſ<g ref="char:EOLhyphen"/>pleaſe the Arbitrary power now ſet up: (I cannot call it government.) I ſhall leave you to peruſe my triall, and there you ſhall ſee, what a condition this poor Nation is brought into; and (no queſtion) will be utterly deſtroyed, if not reſtored (by Loyall Subjects) to its old and glorious Government. I pray God he lay not his Judgements upon <hi>England</hi> for their ſluggiſhneſſe in doing their duty, and readi<g ref="char:EOLhyphen"/>neſſe to put their hands in their boſomes, or rather taking part with the Enemy of Truth. The Lord open their eyes, that they may be no longer lead, or drawn into ſuch ſnares: elſe the Child unborn will curſe the day of their Parents birth.</p>
+                           <p>God Almighty Preſerve my Lawfull King <hi>Charles</hi> the ſecond, from the hands of his Enemies, and break down that wall of Pride and Rebellion, which ſo long hath kept him from his juſt Rights. God Preſerve his Royall Mother, and all his Majeſties Royall Bre<g ref="char:EOLhyphen"/>thren, and incline their hearts to ſeek after him. God incline the hearts of all true <hi>Engliſh</hi> men to ſtand up as one Man to bring in the King; and Redeem themſelves and this poor Kingdome, out of its more then <hi>Egyptian</hi> ſlavery.</p>
+                           <p>As I have now put off theſe garments of cloth, ſo I hope I have put off my garments of ſinne, and have put on the Robes of Chriſts Righteouſneſſe here, which will bring me to the enjoyment of his glorious Robesanon.</p>
+                           <p>Then he kneeled down and kiſſed the block, and ſaid thus: I com<g ref="char:EOLhyphen"/>mit my ſoul to God my Creatour and Redeemer, Look on me, O Lord, at my laſt gaſping: Hear my prayer and the prayers of all good people, I thank thee, O God, for all thy diſpenſations to<g ref="char:EOLhyphen"/>wards me.</p>
+                           <p>Then kneeling down he prayed moſt devoutly, as followeth.</p>
+                           <p>O Eternall, Almighty, and moſt mercifull God the Righteous Judge of all the world, look down in mercy on me a miſerable ſin<g ref="char:EOLhyphen"/>ner. O bleſſed Jeſus Redeemer of Mankind, which takeſt away the ſinnes of the world. Let thy perfect manner of obedience be preſent<g ref="char:EOLhyphen"/>ed to thy Heavenly Father for me. Let thy precious death and bloud be the Ranſome and ſatisfaction of my many and heinous tranſgreſ<g ref="char:EOLhyphen"/>ſions. Thou that ſitteſt at the Right hand of God, make interceſſion for me. O holy and bleſſed Spirit which art the comforter, fill my heart with thy conſolations. O holy, bleſſed, and glorious Trinity be mercifull to me, confirm my faith in the promiſes of the Goſpel, revive and quicken my hope and expectation of joyes prepared for true and faithfull ſervants. Let the infinite Love of God my Savi<g ref="char:EOLhyphen"/>our make my love to him ſtedfaſt, ſincere, and conſtant.</p>
+                           <p>
+                              <pb n="16" facs="tcp:118610:10"/>O Lord conſider my condition, accept my teares, aſſwage my grief, give comfort and confidence in thee: impute not unto me my former ſinnes, but moſt mercifull Father receive me into thy favour, for the merits of Chriſt Jeſus. Many and grievous are my ſinnes, for I have ſinned many times againſt the light of knowledge, againſt remorſe of conſcience, againſt the motions and opportunities of grace. But accept I beſeech thee, the ſacrifice of a broken and con<g ref="char:EOLhyphen"/>trite heart, in and for the ſacrifice, oblation, and ſatisfaction of thy Son Jeſus Chriſt. O Lord receive my ſoul after it is delivered from the burthen of the fleſh, into perfect joy in the ſight and fruition of thee. And at the generall reſurrection grant that my body may be endowed with immortality, and received with my ſoul into glory.</p>
+                           <p>I praiſe thee O God, I acknowledge thee to be the Lord. O Lamb of God, that takeſt away the ſinnes of the world, have mercy on me. Thou that ſitteſt at the right hand of God, hear my prayer. O Lord Jeſus Chriſt, God and Man, Mediatour betwixt God and Man, I have ſinned as a Man, be thou me c<gap reason="illegible: faint" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſu<gap reason="illegible: faint" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>l to me as a God. O holy and bleſſed Spirit, help my infirmities with thoſe ſighs and grones which I cannot expreſſe.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Then he deſired to ſee the Axe; And kiſſed it, ſaying, I am like to have a ſharp paſſage of it, but my Saviour hath ſweetned it un<g ref="char:EOLhyphen"/>to me.</p>
+               <p>Then he ſaid, if I would have been ſo unworthy as others have been, I ſuppoſe I might by a lie, have ſaved my life: which I ſcorn to purchaſe at ſuch a rate. I defie ſuch temptations, and them that gave them me.</p>
+               <p>Glory be to God on high: On Earth peace: Good will towards Men. And the Lord have mercy upon my poor ſoul. Amen.</p>
+               <p>So laying his Neck upon the block, and after ſome private Eja<g ref="char:EOLhyphen"/>culations, he gave the Heads-man a ſign with his hand, who at one blow ſevered his head from his body.</p>
+            </div>
+            <div type="speech">
+               <pb n="18" facs="tcp:118610:10"/>
+               <head>The Speech of that piouſly reſolved. <hi>Hugh Grove of Chaſſenbury</hi> in the pariſh of <hi>Enford</hi> and County of <hi>Wilts</hi> Eſquire, beheaded the 16. day of <hi>May,</hi> 1655. in the Caſtle at <hi>Exon.</hi>
+               </head>
+               <opener>
+                  <salute>Good people,</salute>
+               </opener>
+               <p>I Never was guilty of much Rhetorick, nor ever loved long Speeches in all my life, and therefore you cannot expect either of them from me now at my death; All that I ſhall deſire of you, beſides your hearty prayers for my ſoul, is; That you would bear me witneſſe I die a true ſonne of the Church of <hi>England,</hi> as it was eſtabliſhed by King <hi>Edward</hi> the ſixt, Queen <hi>Elizabeth,</hi> King <hi>James,</hi> and King <hi>Charles</hi> the firſt of ever bleſſed memory, That I die a Loyall ſubject to King <hi>Charles</hi> the ſecond, my undoubted Sovereigne, and a lover of the good old Laws of the Land, the juſt priviledges of Parliaments, and Rights and Liberties of the People; for the re-eſtabliſhing of all which I do undertake this ingagement, and for which I am ready to lay down my life: God forgive the bloudy-minded Jury and thoſe that procured them; God forgive Captain <hi>Crook</hi> for denying his Articles ſo unworthi<g ref="char:EOLhyphen"/>lie: God forgive Mr. <hi>Dove,</hi> and all other perſons ſwearing ſo malitiouſ<g ref="char:EOLhyphen"/>ly and falſely againſt me; God forgive all my enimies, I heartily forgive them. God bleſſe the King and all that love him, turn the hearts of all that hate him; God bleſſe you all, and be merciful. to you, and to my Soul. Amen.</p>
+               <p>And ſo meekly laying his neck to the block, and giving a ſigne, his head at one blow, and a draw of the axe, was ſevered from his bodie.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
